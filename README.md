@@ -1,0 +1,1 @@
+Aiming to promote a data-intensive paradigm in International Relations, I extracted and processed data from the CIA World Factbook in order to support relevant research. For the theoretical context see: https://arxiv.org/abs/2010.05640 (technical sections refer to older implementations - now void). More TBA.
